@@ -7,3 +7,5 @@ Use (https://github.com/LambdaSchool/java-ourcourses.git) as a model for how to 
 Security is:
 * ROLE ADMIN should be allowed to access /users and /admin
 * ROLE User should be allowed to access /animals and /zoos
+
+* REFER TO OTHER ZOOS PROJECT FOR KAITLYNS WORK
